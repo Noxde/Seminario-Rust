@@ -1,0 +1,5 @@
+mod rectangulo;
+
+fn main() {
+
+}
