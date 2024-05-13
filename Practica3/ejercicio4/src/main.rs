@@ -1,0 +1,5 @@
+mod triangulo;
+
+fn main() {
+    
+}
