@@ -1,0 +1,4 @@
+mod autos;
+
+fn main() {
+}
