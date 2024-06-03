@@ -1,0 +1,128 @@
+[
+  {
+    "libro": {
+      "isbn": 394,
+      "titulo": "Test4",
+      "autor": "Test5",
+      "paginas": 234,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "Test1",
+      "telefono": "Test2",
+      "correo": "Test3"
+    },
+    "vencimiento": {
+      "dia": 12,
+      "mes": 6,
+      "anio": 2024
+    },
+    "devolucion": null,
+    "estado": "Prestamo"
+  },
+  {
+    "libro": {
+      "isbn": 394,
+      "titulo": "Test4",
+      "autor": "Test5",
+      "paginas": 234,
+      "genero": "Tecnico"
+    },
+    "cliente": {
+      "nombre": "Test1",
+      "telefono": "Test2",
+      "correo": "Test3"
+    },
+    "vencimiento": {
+      "dia": 12,
+      "mes": 6,
+      "anio": 2024
+    },
+    "devolucion": null,
+    "estado": "Prestamo"
+  },
+  {
+    "libro": {
+      "isbn": 275,
+      "titulo": "Test6",
+      "autor": "Test7",
+      "paginas": 120,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "Test1",
+      "telefono": "Test2",
+      "correo": "Test3"
+    },
+    "vencimiento": {
+      "dia": 12,
+      "mes": 6,
+      "anio": 2024
+    },
+    "devolucion": null,
+    "estado": "Prestamo"
+  },
+  {
+    "libro": {
+      "isbn": 275,
+      "titulo": "Test6",
+      "autor": "Test7",
+      "paginas": 120,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "Test1",
+      "telefono": "Test2",
+      "correo": "Test3"
+    },
+    "vencimiento": {
+      "dia": 12,
+      "mes": 6,
+      "anio": 2024
+    },
+    "devolucion": null,
+    "estado": "Prestamo"
+  },
+  {
+    "libro": {
+      "isbn": 275,
+      "titulo": "Test6",
+      "autor": "Test7",
+      "paginas": 120,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "Test1",
+      "telefono": "Test2",
+      "correo": "Test3"
+    },
+    "vencimiento": {
+      "dia": 12,
+      "mes": 6,
+      "anio": 2024
+    },
+    "devolucion": null,
+    "estado": "Prestamo"
+  },
+  {
+    "libro": {
+      "isbn": 275,
+      "titulo": "Test6",
+      "autor": "Test7",
+      "paginas": 120,
+      "genero": "Otros"
+    },
+    "cliente": {
+      "nombre": "Test1",
+      "telefono": "Test2",
+      "correo": "Test3"
+    },
+    "vencimiento": {
+      "dia": 12,
+      "mes": 6,
+      "anio": 2024
+    },
+    "devolucion": null,
+    "estado": "Prestamo"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "nombre": "John",
+    "apellido": "Doe",
+    "email": "John.doe@gmail.com",
+    "dni": "123123123",
+    "validado": true,
+    "fiat": 32500.000022222222,
+    "balances": {
+      "BTC": 0.5
+    }
+  }
+]

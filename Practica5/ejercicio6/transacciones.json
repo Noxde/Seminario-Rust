@@ -1,0 +1,67 @@
+[
+  {
+    "IngresoDinero": {
+      "fecha": {
+        "dia": 3,
+        "mes": 6,
+        "anio": 2024
+      },
+      "usuario": {
+        "nombre": "John",
+        "apellido": "Doe",
+        "email": "John.doe@gmail.com",
+        "dni": "123123123",
+        "validado": true,
+        "fiat": 100000.0,
+        "balances": {}
+      },
+      "monto": 100000.0
+    }
+  },
+  {
+    "CompraCripto": {
+      "fecha": {
+        "dia": 3,
+        "mes": 6,
+        "anio": 2024
+      },
+      "usuario": {
+        "nombre": "John",
+        "apellido": "Doe",
+        "email": "John.doe@gmail.com",
+        "dni": "123123123",
+        "validado": true,
+        "fiat": 32500.0,
+        "balances": {
+          "BTC": 1.5
+        }
+      },
+      "cripto": "BTC",
+      "cotizacion": 45000.0,
+      "monto": 1.5
+    }
+  },
+  {
+    "VentaCripto": {
+      "fecha": {
+        "dia": 3,
+        "mes": 6,
+        "anio": 2024
+      },
+      "usuario": {
+        "nombre": "John",
+        "apellido": "Doe",
+        "email": "John.doe@gmail.com",
+        "dni": "123123123",
+        "validado": true,
+        "fiat": 32500.000022222222,
+        "balances": {
+          "BTC": 0.5
+        }
+      },
+      "cripto": "BTC",
+      "cotizacion": 45000.0,
+      "monto": 1.0
+    }
+  }
+]

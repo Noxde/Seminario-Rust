@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "sub": {
+      "tipo": "Super",
+      "mensual": 13.99,
+      "meses": 3,
+      "inicio": {
+        "dia": 4,
+        "mes": 3,
+        "anio": 2024
+      }
+    },
+    "pago": "TarjetaCredito"
+  },
+  {
+    "id": 2,
+    "sub": {
+      "tipo": "Clasic",
+      "mensual": 10.99,
+      "meses": 1,
+      "inicio": {
+        "dia": 2,
+        "mes": 5,
+        "anio": 2024
+      }
+    },
+    "pago": "Cripto"
+  },
+  {
+    "id": 3,
+    "sub": {
+      "tipo": "Super",
+      "mensual": 13.99,
+      "meses": 1,
+      "inicio": {
+        "dia": 10,
+        "mes": 3,
+        "anio": 2024
+      }
+    },
+    "pago": "Bancaria"
+  },
+  {
+    "id": 4,
+    "sub": null,
+    "pago": "Bancaria"
+  }
+]

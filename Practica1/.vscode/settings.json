@@ -1,0 +1,15 @@
+{
+  "rust-analyzer.linkedProjects": [
+    "ejercicio1\\Cargo.toml",
+    "ejercicio2\\Cargo.toml",
+    "ejercicio3\\Cargo.toml",
+    "ejercicio4\\Cargo.toml",
+    "ejercicio5\\Cargo.toml",
+    "ejercicio6\\Cargo.toml",
+    "ejercicio7\\Cargo.toml",
+    "ejercicio8\\Cargo.toml",
+    "ejercicio9\\Cargo.toml",
+    "ejercicio10\\Cargo.toml",
+    ".\\ejercicio11\\Cargo.toml"
+  ]
+}

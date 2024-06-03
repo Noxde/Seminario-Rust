@@ -1,0 +1,21 @@
+[
+  {
+    "mascota": {
+      "nombre": "Test4",
+      "edad": 4,
+      "tipo": "Perro",
+      "duenio": {
+        "nombre": "Test1",
+        "direccion": "Test2",
+        "telefono": "Test3"
+      }
+    },
+    "diagnostico": "Test6",
+    "tratamiento": "Test7",
+    "visita": {
+      "dia": 10,
+      "mes": 6,
+      "anio": 2024
+    }
+  }
+]
